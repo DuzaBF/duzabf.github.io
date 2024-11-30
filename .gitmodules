@@ -1,0 +1,4 @@
+
+[submodule "docs/submodules/latex-notes"]
+	path = docs/submodules/latex-notes
+	url = git@github.com:DuzaBF/latex-notes.git
